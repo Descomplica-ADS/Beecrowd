@@ -1,6 +1,6 @@
 # Beecrowd
 
-O Beecrod é um repositório de problemas de programação.
+O Beecrowd é um repositório de problemas de programação.
 
 Abaixo está a categoria dos problemas
 
