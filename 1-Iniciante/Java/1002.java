@@ -5,9 +5,6 @@ import java.io.IOException;
 
 public class BeeCrowdJava1002 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) throws IOException{
        
         Scanner in = new Scanner(System.in);
