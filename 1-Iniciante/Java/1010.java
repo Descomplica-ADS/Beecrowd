@@ -1,9 +1,9 @@
-package beecrowdjava1002;
+package beecrowdjava1010;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-public class BeeCrowdJava1002 {
+public class BeeCrowdJava1010 {
 
     public static void main(String[] args) throws IOException{
      
